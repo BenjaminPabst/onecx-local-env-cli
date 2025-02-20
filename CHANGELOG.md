@@ -1,3 +1,12 @@
+## [1.4.1](https://github.com/BenjaminPabst/onecx-local-env-cli/compare/v1.4.0...v1.4.1) (2025-02-20)
+
+### Bug Fixes
+
+* configuration for publishing ([f421845](https://github.com/BenjaminPabst/onecx-local-env-cli/commit/f421845a2ed3522f3011f5ec7e644afa8afd53cb))
+* reset version ([ff0e491](https://github.com/BenjaminPabst/onecx-local-env-cli/commit/ff0e491db6312b2264d45b5e31a8cd1f0ec8ba58))
+* wrong name used ([43dce8a](https://github.com/BenjaminPabst/onecx-local-env-cli/commit/43dce8acba402066aff206a58a32254265eb78cd))
+* wrong type in microservice ([532c9b7](https://github.com/BenjaminPabst/onecx-local-env-cli/commit/532c9b7018570eb335c97a132b3829cb9e86bb76))
+
 ## [1.4.0](https://github.com/onecx/onecx-local-env-cli/compare/v1.3.0...v1.4.0) (2025-02-19)
 
 ### Features
